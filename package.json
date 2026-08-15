@@ -1,7 +1,7 @@
 {
   "name": "dsh-whale-pet",
   "version": "0.1.0",
-  "description": "DeepSeek style pixel orca desktop pet with hold-to-talk voice input (Web Speech API)",
+  "description": "DSH desktop pet plugin: DeepSeek-style pixel orca with Web Speech voice input, draggable, resizable, always-on overlay.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -13,6 +13,24 @@
     },
     "./package.json": "./package.json"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Couer869/dsh-whale-pet.git"
+  },
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "deepseek",
+    "plugin",
+    "desktop-pet",
+    "whale",
+    "orca",
+    "voice",
+    "speech-to-text",
+    "webspeech",
+    "client-plugin",
+    "pixel-art"
+  ],
   "dsh": {
     "client": {
       "inject": [
