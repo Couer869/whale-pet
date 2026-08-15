@@ -21,7 +21,7 @@ DeepSeek 风格的**像素虎鲸桌面宠物**，自带**按住说话转文字**
 ## 📦 安装
 
 ```sh
-dsh plugin --profile web add "github:<your-name>/dsh-whale-pet"
+dsh plugin --profile web add "github:Couer869/dsh-whale-pet"
 dsh web
 ```
 
