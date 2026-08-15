@@ -1,0 +1,6 @@
+# dsh-whale-pet bundle patch —— mounts the host-half row so the client-modules
+# scanner discovers the `dsh.client` bundle. All real behavior lives client-side.
+- insert:
+    - id: dsh-whale-pet
+      name: dsh-whale-pet
+      config: {}
